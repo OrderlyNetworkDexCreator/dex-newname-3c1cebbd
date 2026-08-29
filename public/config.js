@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://api.prod.orderly-i.network",
+  "VITE_SEO_SITE_URL": "https://da527rbm8e71130sr270qbkawcgz4rg34.oast.pro",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
